@@ -11,7 +11,7 @@ const useStyles = makeStyles((theme)=>({
 function App() {
   return (
     <div >
-        <h1>PIAIC Boot Camp 2020 - Class 09  Material UI : Grids         </h1>
+        <h1> PIAIC Boot Camp 2020 - Class 09  Material UI : Grids         </h1>
         <h2> Student : Muhammad Javaid Nawab </h2>
         <Grid container spacing = {3}> 
         <Grid item xs ={12}>
